@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: Roboto;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+textarea:focus,
+input:focus,
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.chat {
+  max-width: 600px;
+  width: 100vw;
+  height: calc(100vh);
+  margin: 0px auto;
+  background-color: rgb(34, 34, 34);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
