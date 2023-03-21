@@ -50,7 +50,7 @@ export default function Input({ onSendMessage }) {
           type="button"
           onMouseDown={toggleEmoji}
         >
-          <img src="../svg/emoticon.svg" alt="emoticon" width="24" />
+          <img src="svg/emoticon.svg" alt="emoticon" width="24" />
         </button>
         <input
           className="msg-form__input"
