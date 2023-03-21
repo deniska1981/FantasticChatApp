@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fantastic-chat-app/static/css/main.b3ee0e27.css",
-    "main.js": "/fantastic-chat-app/static/js/main.6a1ee240.js",
-    "index.html": "/fantastic-chat-app/index.html",
-    "main.b3ee0e27.css.map": "/fantastic-chat-app/static/css/main.b3ee0e27.css.map",
-    "main.6a1ee240.js.map": "/fantastic-chat-app/static/js/main.6a1ee240.js.map"
+    "main.css": "./static/css/main.b3ee0e27.css",
+    "main.js": "./static/js/main.64ff4a80.js",
+    "index.html": "./index.html",
+    "main.b3ee0e27.css.map": "./static/css/main.b3ee0e27.css.map",
+    "main.64ff4a80.js.map": "./static/js/main.64ff4a80.js.map"
   },
   "entrypoints": [
     "static/css/main.b3ee0e27.css",
-    "static/js/main.6a1ee240.js"
+    "static/js/main.64ff4a80.js"
   ]
 }

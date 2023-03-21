@@ -3,7 +3,7 @@ import React from "react";
 function Avatars({ selectAvatar }) {
   const avatars = [];
   for (let i = 1; i <= 16; i++) {
-    const path = `../svg/avatar-${i}.svg`;
+    const path = `svg/avatar-${i}.svg`;
     avatars.push(path);
   }
 

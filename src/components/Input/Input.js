@@ -61,7 +61,7 @@ export default function Input({ onSendMessage }) {
           autoFocus={true}
         />
         <button className="msg-form__btn">
-          <img src="../svg/send-message.svg" alt="send-message" width="24" />
+          <img src="svg/send-message.svg" alt="send-message" width="24" />
         </button>
       </form>
     </div>
